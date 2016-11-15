@@ -9,3 +9,6 @@ Just storing game saves :)
 
 ### Too-Do Add:
 * `Metroid Prime [USA v1.02]`
+* `Super Mario Sunshine [USA]`
+* `Legend of Zelda: Twilight Princess [GC USA]'
+
