@@ -1,0 +1,2 @@
+For Pokemon Moon: delete Users\SDMC\Nintendo 3DS \0 \0 title\00040000 \ 00175e00 so delete the whole 00175e00 folder 
+For Pokemon Sun : delete Users\SDMC\Nintendo 3DS \0 \0 title\00040000 \ 00164800 so delete the whole 00164800 folder 
